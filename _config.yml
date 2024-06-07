@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yoonha Cha / Site Title"
+title                    : "Yoonha Cha"
 title_separator          : "-"
 name                     : &name "Yoonha Cha"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Yoonha_profile_2024.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Yoonha Cha"
   pronouns         : "she/her"  
   bio              : "Hi Everyone! My name is Yoonha."
-  location         : "USA"
+  location         : "Irvine, CA, USA"
   employer         : "University of California, Irvine"
   uri              : # URL
   email            : "yoonha.cha@uci.edu" 
