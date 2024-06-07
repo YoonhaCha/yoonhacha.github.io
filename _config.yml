@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/Yoonha_profile_2024.jpg"
+  avatar           : "Yoonha_profile_2024.jpg"
   name             : "Yoonha Cha"
   pronouns         : "she/her"  
   bio              : "Hi Everyone! My name is Yoonha."
