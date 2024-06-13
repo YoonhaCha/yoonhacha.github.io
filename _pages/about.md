@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the department of Informatics at University of California, Irvine. I am advised by [Dr. Stacy M. Branham](https://www.stacybranham.com) and work closesly with [Dr. André van der Hoek](https://ics.uci.edu/~andre/index.html). My research focuses on accessible software engineering, aiming to raise awareness about professionals with disabilities in the field and to design and build interventions to support an accessible workplace. 
+I am a PhD student in the department of Informatics at University of California, Irvine. I am advised by [Dr. Stacy M. Branham](https://www.stacybranham.com) and work closesly with [Dr. André van der Hoek](https://ics.uci.edu/~andre/index.html). My research focuses on accessible software engineering, sitting at the intersection of HCI and accessibility, along with software engineering. I aim to raise awareness about professionals with disabilities in the field, and to design and build interventions to support an accessible workplace. 
 
-A data-driven personal website
+Prior to starting a PhD in Informatics, I earned a M.S. Degree in Computer Science at University of California, Irvine. I received my Bachelor's degree in Computer Science and Engineering from Korea University. You can find out more about me through my CV.
+
+Current Projects
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
