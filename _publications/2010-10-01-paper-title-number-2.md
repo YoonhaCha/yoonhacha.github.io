@@ -3,7 +3,7 @@ title: "Understanding the Career Mobility of Blind and Low Vision Software Profe
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Abstract Goes Here'
-date: 2024
+date: 2024-04-26
 venue: 'CHASE 2024: The 17th International Conference on Cooperative Human Aspects of Software Engineering'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3641822.3641872'
