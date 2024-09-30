@@ -1,3 +1,4 @@
+---
 title: ""Do You Want Me to Participate or Not?": Investigating the Accessibility of Software Development Meetings for Blind and Low Vision Professionals"
 title: "Investigating the Accessibility of Software Development Meetings for Blind and Low Vision Professionals"
 collection: publications
