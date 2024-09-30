@@ -6,7 +6,7 @@ excerpt: 'Context: Scholars in the software engineering (SE) research community 
 date: 2024
 venue: 'CHASE 2024: The 17th International Conference on Cooperative Human Aspects of Software Engineering'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3641822.3641872'
+paperurl: '[https://dl.acm.org/doi/pdf/10.1145/3641822.3641872](https://dl.acm.org/doi/abs/10.1145/3641822.3641872)'
 citation: 'citation goes here'
 ---
 
